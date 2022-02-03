@@ -3,7 +3,6 @@ package ma.ensa.service.impl;
 import lombok.Data;
 import ma.ensa.exception.DuplicatedException;
 import ma.ensa.exception.NotFoundException;
-import ma.ensa.model.CurrentAgent;
 import ma.ensa.model.CurrentClient;
 import ma.ensa.repository.CurrentClientRepository;
 import ma.ensa.service.CurrentClientService;
